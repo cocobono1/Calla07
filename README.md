@@ -72,7 +72,7 @@ database.password={ your password }
 
 
 ## ERD - Diagram
-
+![ERD 모델링 최종](https://github.com/cocobono1/Calla07/assets/147673787/e9e40950-76f1-4807-9600-967ccb99a705)
 
 ## 컨벤션과 협업전략
 <details>
