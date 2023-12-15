@@ -76,9 +76,12 @@ database.password={ your password }
 
 ## 컨벤션과 협업전략
 <details>
-  <summary> Git 관련 </summary> 
+  <summary> Git 관련 </summary>
   <br>
-  <p>1. 커밋 메세지는 update, feat 두가지로 시작해야한다. <br> 2. 브렌치명은 feature/기능 형식이여야한다. <br> 3. 머지시 develop에 합친 후 이상이 없으면 main으로 병합한다.<br> 적은 인원 수와 깃 활용 능력을 고려하여 컨벤션은 최대한 간단하게 가져갔습니다. 
+  <p>프로젝트 참여자들은 경험이 부족하여 깃 사용을 간소화하기 위해 다음과 같은 간단한 규칙을 따라야 합니다:</p>
+  <br>
+  <p>1. 커밋 메세지는 update, feat 두가지로 시작해야한다. <br> 2. 브렌치명은 feature/기능 형식이여야한다. <br> 3. 머지시 develop에 합친 후 이상이 없으면 mater으로 병합한다.<br> 적은 인원 수와 깃 활용 능력을 고려하여 컨벤션은 최대한 간단하게 가져야한다. <br>
+  > 프로젝트 참여자들이 모두 경험이 부족하여 위 규칙을 지키지 못했습니다.
   </p>
 </details>
 <details>
