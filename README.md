@@ -96,5 +96,5 @@ database.password={ your password }
 
 
 ## 제작인원 및 기간
-- **총 제작인원:** 
+- **총 제작인원:**  <a href="https://github.com/cocobono1">강정묵</a>, <a href="https://github.com/superDDangKong">박진성</a>, <a href="https://github.com/prodo813">김홍석</a>,  <a href="https://github.com/DongGun01">이동건</a> | 해당 링크를 누르면 깃허브 페이지로 이동합니다.
 - **제작 기간:** 2023/10/20 ~ 2023/12/17
