@@ -29,6 +29,7 @@ database.password={ your password }
     1. 모든 이용자가 사용 가능합니다.<br/>
     2. 상품의 이름, 옵션 및 설명, 카테고리를 검색어와 비교합니다.<br/>
     3. 좋아요 수, 조회 수, 후기 수, 별 점 표출 등 구매자의 신뢰도를 올려줍니다.<br/>
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/71a7b9dc-1ee7-4a32-9ac9-2ea1ecc3c9a5">
   </p>
 </details>
 
@@ -39,6 +40,8 @@ database.password={ your password }
     2. 상품의 이름, 가격, 카테고리, 설명 및 옵션, 이미지를 등록할 수 있습니다.<br/>
     3. 관리자만 상품 수정을할 수 있습니다.<br/>
     4. 상품의 이름, 가격, 카테고리, 설명 및 옵션, 이미지를 수정할 수 있습니다.<br/>
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/d122d1cd-828c-45ad-9fd7-e4672e7aea9d">
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/b96217a2-8550-4541-8060-a501243059c1">
   </p>
 </details>
 
@@ -48,6 +51,7 @@ database.password={ your password }
     1. 모든 회원이 이용할 수 있습니다.<br/>
     2. 상품에 대해 좋아요를 클릭해 상품에 대한 호감도를 표현합니다.<br/>
     3. '좋아요'에 대한 카운트를 제공합니다.<br/>
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/92d2c07a-dab7-4e2f-8a97-1a397ae112e5">
    </p>
 </details>
 
@@ -58,6 +62,8 @@ database.password={ your password }
     2. 후기를 통해 구매자와 비구매자가 상품의 대한 정보를 공유할수있습니다.</br>
     3. 후기를 작성한 본인만 수정하거나 삭제할 수 있습니다.</br>
     4. Modal을 사용해 글을 수정할 수 있게 만들었습니다.</br>
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/6c3bac92-9e4b-4c14-837b-abd92c68a3c6">
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/f48918d5-3696-463a-9921-29ee0e96b8b1">
   </p>
 </details>
 
@@ -67,6 +73,8 @@ database.password={ your password }
     1. 후기에 대한 답글을 등록할 수 있습니다.</br>
     2. 답글을 작성한 본인만 수정하거나 삭제할 수 있습니다.</br>
     3. Modal을 사용해 글을 수정할 수 있게 만들었습니다.</br>
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/861f9c11-efa1-45b3-9710-c2cf8b7a4dee">
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/0a9b0a59-6e83-4e4a-ac33-9400f4e6f354">
   </p>
 
 </details>
@@ -82,6 +90,8 @@ database.password={ your password }
     6. Modal을 사용하여 구매자의 추가 정보(카드, 주소, 이메일 등) 기입하게 했습니다.</br>
     7. Email 유효성 체크를 진행했습니다.</br>
     8. 주소 검색API를 사용했습니다.</br>
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/5c6894b7-2613-43b8-8157-c9942062c42d">
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/bc4f9cc7-c2cc-478a-9586-890730427ff9">
   </p>
 </details>
   
@@ -91,6 +101,8 @@ database.password={ your password }
     1. 배송상황에 따라 주소변경, 주문취소, 주문정보 삭제 를 진행할 수 있습니다.</br>
     2. 주소변경은 Modal과 주소검색API를 사용하여 수정이 가능합니다.</br>
     3. 'Scheduled'를 사용하여 1시간 마다 메소드를 호출하고 구매일로부터 24시간이 지나면 배송상황이 변화하게 했습니다. </br>
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/628fef0f-75e1-47bc-bb20-e46a11e6e0e8">
+    <img src="https://github.com/cocobono1/Calla07/assets/147673787/b13e226b-924c-4739-ac1c-45cdff8b1b27">
   </p>
 </details>
 
