@@ -7,10 +7,9 @@
 1. <a href="https://www.oracle.com/database/technologies/xe-prior-release-downloads.html">Oracle Database 11g Express Edition Release 11.2.0.2.0</a> 설치
 2. sql 폴더에 있는 DDL을 실행
 3. <a href="https://developers.kakao.com"> 카카오 developer</a> 에서 어플리케이션 추가
-4. src/main/resources에 application.properties 파일 추가
-5. <a href="https://tomcat.apache.org/download-90.cgi">아파치 톰캣 9.0</a> 설치
-6. maven 을 통해서 dependency down
-7. sts로 열기 및 실행
+4. <a href="https://tomcat.apache.org/download-90.cgi">아파치 톰캣 9.0</a> 설치
+5. maven 을 통해서 dependency down
+6. sts로 열기 및 실행
 
 ## 웹 실행 모습
 
