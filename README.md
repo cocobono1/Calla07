@@ -12,15 +12,6 @@
 6. maven 을 통해서 dependency down
 7. sts로 열기 및 실행
 
-### application.properties 예제
-```properties
-#application.properties example - window
-uploadPath.img=C:\\\\upload\\temp
-
-database.url=jdbc:oracle:thin:@localhost:1521:xe
-database.user={ your id }
-database.password={ your password }
-```
 ## 웹 실행 모습
 
 <details> 
