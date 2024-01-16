@@ -1,15 +1,12 @@
 ## Calla
-> 해당 프로젝트는 spring으로 구현한 상품 판매 사이트입니다.
-> <br>
-> 취향 공유 플랫폼 'Colley'를 모티브로 상품판매, 중고거래, 사용자들의 소통을 위한 플랫폼을 구현하고 싶었습니다.
+> Spring 으로 구현한 상품 판매 사이트며 취향 공유 플랫폼 ‘Colley’ 를 모티브로 판매, 중고 거래, 자유게시판, 문의게시판을 구현하여 사용자들의 커뮤니케이션을 위한 플렛폼을 구현했습니다.
 
 ## 개발환경 세팅 방법
 1. <a href="https://www.oracle.com/database/technologies/xe-prior-release-downloads.html">Oracle Database 11g Express Edition Release 11.2.0.2.0</a> 설치
-2. sql 폴더에 있는 DDL을 실행
-3. <a href="https://developers.kakao.com"> 카카오 developer</a> 에서 어플리케이션 추가
-4. <a href="https://tomcat.apache.org/download-90.cgi">아파치 톰캣 9.0</a> 설치
-5. maven 을 통해서 dependency down
-6. sts로 열기 및 실행
+2. <a href="https://developers.kakao.com"> 카카오 developer</a> 에서 어플리케이션 추가
+3. <a href="https://tomcat.apache.org/download-90.cgi">아파치 톰캣 9.0</a> 설치
+4. maven 을 통해서 dependency down
+5. sts로 열기 및 실행
 
 ## 웹 실행 모습
 
@@ -111,27 +108,6 @@
 
 ## ERD - Diagram
 ![ERD 모델링 최종](https://github.com/cocobono1/Calla07/assets/147673787/e9e40950-76f1-4807-9600-967ccb99a705)
-
-## 컨벤션과 협업전략
-<details>
-  <summary> Git 관련 </summary>
-  <br>
-  <p>프로젝트 참여자들은 경험이 부족하여 깃 사용을 간소화하기 위해 다음과 같은 간단한 규칙을 따라야 합니다:</p>
-  <br>
-  <p>1. 커밋 메세지는 update, feat 두가지로 시작해야한다. <br> 2. 브렌치명은 feature/기능 형식이여야한다. <br> 3. 머지시 develop에 합친 후 이상이 없으면 mater으로 병합한다.<br> 적은 인원 수와 깃 활용 능력을 고려하여 컨벤션은 최대한 간단하게 가져야한다. <br>
-  </p>
-</details>
-<details>
-  <summary> 자바 관련</summary> 
-  <br>
-  <p> 1. 구글 formatter 를 사용한다. <br> 2. restful한 method를 구현하려고 노력한다. <br>
-  3. 함수명과 변수명을 적절하게 유지한다. <br> 4. else문을 적게 쓴다. <br> 
-
- > 머지 할 때 코드리뷰를 진행하는 방식으로 코드를 계속 고쳐왔습니다.
-  </p>
-</details>
-
-
 
 ## 제작인원 및 기간
 - **총 제작인원:**  <a href="https://github.com/cocobono1">강정묵</a>, <a href="https://github.com/superDDangKong">박진성</a>, <a href="https://github.com/prodo813">김홍석</a>,  <a href="https://github.com/DongGun01">이동건</a> | 해당 링크를 누르면 깃허브 페이지로 이동합니다.
